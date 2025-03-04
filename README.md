@@ -255,7 +255,7 @@ See `LICENSE.txt` for more information.
 
 Isuranga Seram [email] - **_isurangaseram@gmail.com_**
 
-Project Link: [https://github.com/Isuranga-Seram/Media-Fun.git](https://github.com/Isuranga-Seram/Media-Fun.git)
+LinkedIn: [linkedin.com/in/isuranga-seram](linkedin.com/in/isuranga-seram)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
